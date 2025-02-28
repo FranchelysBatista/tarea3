@@ -1,0 +1,6 @@
+@Segumientodeactividadesdeportiva.Api_HostAddress = http://localhost:5269
+
+GET {{Segumientodeactividadesdeportiva.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
